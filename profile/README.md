@@ -1,5 +1,5 @@
 # CaliFo Technologies
 
 ## Our Current Projects:
-* Project: Electrum Aurora
-* Project Highlow
+<p>Project Highlow</p>
+<p>Electrum Aurora - A Completely Open-Source VR Headset</p>
